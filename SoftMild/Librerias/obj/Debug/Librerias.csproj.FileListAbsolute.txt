@@ -1,0 +1,31 @@
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\bin\Debug\Librerias.dll
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.Login.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.Properties.Resources.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.csproj.GenerateResource.Cache
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.dll
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.pdb
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.Ppal.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.MainForm.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.BuscarReg.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.Persona.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.Usuario.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.Reporte.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.BuscarDoc.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\SoftMild\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+D:\Luisa\Inv\SoftMild\Librerias\bin\Debug\Librerias.dll
+D:\Luisa\Inv\SoftMild\Librerias\bin\Debug\Librerias.pdb
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.BuscarDoc.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.BuscarReg.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.Login.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.MainForm.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.Persona.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.Ppal.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.Properties.Resources.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.Reporte.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.Usuario.resources
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.csproj.GenerateResource.cache
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.dll
+D:\Luisa\Inv\SoftMild\Librerias\obj\Debug\Librerias.pdb

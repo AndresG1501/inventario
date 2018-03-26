@@ -1,0 +1,42 @@
+c:\users\administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\Librerias.dll
+c:\users\administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\Librerias.pdb
+c:\users\administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.csproj.GenerateResource.Cache
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.Inv.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.regCualidad.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.regFamilia.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\ZaharaStore.exe.config
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\ZaharaStore.exe.manifest
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\ZaharaStore.application
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\ZaharaStore.exe
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\bin\Debug\ZaharaStore.pdb
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\ZaharaStore.exe.manifest
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\ZaharaStore.application
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\ZaharaStore.exe
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\ZaharaStore.pdb
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.Talla.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.Producto.resources
+C:\Users\Administrador\documents\visual studio 2017\Projects\grInv\grInv\obj\Debug\grInv.FacturaVenta.resources
+D:\Luisa\Inv\grInv\grInv\bin\Debug\ZaharaStore.exe.config
+D:\Luisa\Inv\grInv\grInv\bin\Debug\ZaharaStore.exe.manifest
+D:\Luisa\Inv\grInv\grInv\bin\Debug\ZaharaStore.application
+D:\Luisa\Inv\grInv\grInv\bin\Debug\ZaharaStore.exe
+D:\Luisa\Inv\grInv\grInv\bin\Debug\ZaharaStore.pdb
+D:\Luisa\Inv\grInv\grInv\bin\Debug\Librerias.dll
+D:\Luisa\Inv\grInv\grInv\bin\Debug\Librerias.pdb
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.csprojResolveAssemblyReference.cache
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.FacturaVenta.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.Inv.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.Producto.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.Properties.Resources.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.regCualidad.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.regFamilia.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.Talla.resources
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.csproj.GenerateResource.cache
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.csproj.CoreCompileInputs.cache
+D:\Luisa\Inv\grInv\grInv\obj\Debug\ZaharaStore.exe.manifest
+D:\Luisa\Inv\grInv\grInv\obj\Debug\ZaharaStore.application
+D:\Luisa\Inv\grInv\grInv\obj\Debug\grInv.csproj.CopyComplete
+D:\Luisa\Inv\grInv\grInv\obj\Debug\ZaharaStore.exe
+D:\Luisa\Inv\grInv\grInv\obj\Debug\ZaharaStore.pdb

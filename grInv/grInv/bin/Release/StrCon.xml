@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Empresas>
+
+  
+    <Empresa nomEmpresa = "Zahara Store" ConStr="Data Source=LocalHost;Initial Catalog=ZaharaStore;User ID=dbCli;Password=e01333d9103788ab17820a6bbeddfe0fc6638e16ffc4536b4fd1cabe9680cb7a"/>
+    <Empresa nomEmpresa = "Zahara Store Pruebas" ConStr="Data Source=LocalHost;Initial Catalog=ZaharaStore;User ID=dbCli;Password=e01333d9103788ab17820a6bbeddfe0fc6638e16ffc4536b4fd1cabe9680cb7a"/>
+
+</Empresas>
