@@ -1,7 +1,7 @@
 
 # Stock-Tacking
 
-allow simple handling out, control and product tracking of the company incorporating flexible system billing and reports for tracing and handling of stocktaking
+Allows simple handling, control and product tracking of the company’s inventory; including flexible billing and data reports of products, while adequately  tracing and handling stockage.
 
 
 
